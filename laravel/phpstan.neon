@@ -1,0 +1,9 @@
+includes:
+  # rozszerzenia Larastan
+  - vendor/larastan/larastan/extension.neon
+
+parameters:
+  paths:
+    - app
+    - tests
+  level: 6 
